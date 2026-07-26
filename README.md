@@ -68,7 +68,7 @@ Passionné par le développement d'applications performantes et intuitives, je c
 
 ## 📫 Me contacter
 
-* 📧 Email : [luoman424@gmai](mailto:votre.email@example.com)
+* 📧 Email : [luoman424@gmail.com](mailto:votre.email@example.com)
 
 ---
 
