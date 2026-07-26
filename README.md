@@ -1,6 +1,6 @@
-# 👋 Bonjour, je suis **Rakotohasimbola Roman**
+# Bonjour, je suis **Rakotohasimbola Roman**
 
-### 🚀 Développeur Mobile & Développeur Logiciel
+### Développeur Mobile & Développeur Logiciel
 
 Passionné par le développement d'applications performantes et intuitives, je conçois des solutions logicielles adaptées aux besoins des entreprises et des particuliers. J'aime transformer des idées en applications fiables, modernes et évolutives.
 
@@ -17,7 +17,6 @@ Passionné par le développement d'applications performantes et intuitives, je c
 ---
 
 ## 🛠️ Technologies & Langages
-
 ### Langages de programmation
 
 ![WLangage](https://img.shields.io/badge/WLangage-0095D5?style=for-the-badge)
@@ -47,7 +46,7 @@ Passionné par le développement d'applications performantes et intuitives, je c
 
 ---
 
-## 🌱 Ce que j'aime développer
+## Ce que j'aime développer
 
 * 📱 Applications mobiles
 * 🖥️ Logiciels de gestion
@@ -63,7 +62,6 @@ Passionné par le développement d'applications performantes et intuitives, je c
 ## 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME\&show_icons=true\&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME\&layout=compact\&theme=tokyonight)
 
 ---
