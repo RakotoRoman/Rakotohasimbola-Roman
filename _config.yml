@@ -1,52 +1,5 @@
 title: "Rakotohasimbola Roman"
 name: "Rakotohasimbola Roman"
-description: "Développeur Mobile & Logiciel"
-
-url: "https://VOTRE_USERNAME.github.io"
-baseurl: ""
-
-repository: "VOTRE_USERNAME/VOTRE_USERNAME.github.io"
-
-remote_theme: "mmistakes/minimal-mistakes"
-
-plugins:
-  - jekyll-include-cache
-
-locale: "fr-FR"
-timezone: "Indian/Antananarivo"
-
-author:
-  name: "Rakotohasimbola Roman"
-  avatar: "img/me.jpeg"
-  bio: "Développeur Mobile | Développeur Logiciel | Passionné par les applications métier et mobiles"
-  location: "Madagascar"
-
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/VOTRE_USERNAME"
-
-
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:luoman424@gmail.com"
-
-minimal_mistakes_skin: "dark"
-
-search: true
-
-breadcrumbs: true
-
-paginate: 5
-paginate_path: /page:num/
-
-markdown: kramdown
-highlighter: rouge
-
-permalink: /:categories/:title/
-
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/VOTRE_USERNAME"
+description: "Développeur Mobile & Logiciel
+theme: jekyll-theme-minimal
+logo: "img/me.jpeg"
