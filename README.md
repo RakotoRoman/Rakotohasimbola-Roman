@@ -1,13 +1,11 @@
 # Bonjour, je suis **Rakotohasimbola Roman**
 
-### Développeur Mobile & Développeur Logiciel
+### Développeur Mobile et Développeur Logiciel
 
 Passionné par le développement d'applications performantes et intuitives, je conçois des solutions logicielles adaptées aux besoins des entreprises et des particuliers. J'aime transformer des idées en applications fiables, modernes et évolutives.
 
 ---
-
 ## 💻 À propos de moi
-
 * 📱 Développeur Mobile
 * 🖥️ Développeur de Logiciels Desktop
 * 🌍 Basé à Madagascar
@@ -59,13 +57,6 @@ Passionné par le développement d'applications performantes et intuitives, je c
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_USERNAME\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_USERNAME\&layout=compact\&theme=tokyonight)
-
----
-
 ## 📫 Me contacter
 
 * 📧 Email : [luoman424@gmail.com](mailto:votre.email@example.com)
@@ -76,6 +67,4 @@ Passionné par le développement d'applications performantes et intuitives, je c
 
 > *"Le code est un outil pour résoudre des problèmes, pas seulement pour écrire des lignes."*
 
----
 
-⭐ N'hésitez pas à parcourir mes projets et à laisser une étoile si l'un d'eux vous est utile !
