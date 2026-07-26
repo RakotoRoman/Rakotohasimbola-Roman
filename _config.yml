@@ -1,5 +1,6 @@
 title: "Rakotohasimbola Roman"
-name: "Rakotohasimbola Roman"
-description: "Développeur Mobile & Logiciel
+logo: img/me.jpeg
+description: "Développeur Mobile et Logiciel
+show_downloads: true
 theme: jekyll-theme-minimal
-logo: "img/me.jpeg"
+lang: fr
