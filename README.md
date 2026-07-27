@@ -1,4 +1,4 @@
-# Bonjour, je suis **Rakotohasimbola Roman**
+# Bonjour, je suis Rakotohasimbola Roman
 
 ### Développeur Mobile et Développeur Logiciel
 
